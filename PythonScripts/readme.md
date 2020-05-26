@@ -5,6 +5,7 @@
 4. Enter the name of the script and hit enter.
 
 For windows 10 users:
+
 ![alt text](https://github.com/Renganathan-R/PythonPracticePrograms/blob/master/PythonScripts/Images/CmdSampleShowsRunningPythonScript.PNG "Sample image for using command prompt")
 
 + For all the programs, I have used the linear algorithm which do the basic math and gives the required results.
