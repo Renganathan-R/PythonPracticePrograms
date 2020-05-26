@@ -3,8 +3,9 @@
 2. Make sure you have installed the python on your PC.
 3. Open command prompt and locate the folder using the command **cd** **directory address**
 4. Enter the name of the script and hit enter.
-For windows users:
-![alt text](https://github.com/Renganathan-R/temp/blob/master/Images/cmd_python_script_running.PNG "Sample image for using command prompt")
+
+For windows 10 users:
+![alt text](https://github.com/Renganathan-R/PythonPracticePrograms/blob/master/PythonScripts/Images/CmdSampleShowsRunningPythonScript.PNG "Sample image for using command prompt")
 
 + For all the programs, I have used the linear algorithm which do the basic math and gives the required results.
 + Also the below programs have a checking part which indicates user while entering wrong inputs.
