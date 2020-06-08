@@ -1,13 +1,11 @@
-## Instructions to run the python programs in the repository
+## **Instructions to run the python scripts in the local repository**
+**For windows 10 users (command prompt not powershell)**
 1. Save the python scripts locally on your machine.
 2. Make sure you have installed the python on your PC.
-3. Open command prompt and locate the folder using the command **cd** **directory address**
-4. Enter the name of the script and hit enter.
-
-For windows 10 users:
-
-![alt text](https://github.com/Renganathan-R/PythonPracticePrograms/blob/master/PythonScripts/Images/CmdSampleShowsRunningPythonScript.PNG "Sample image for using command prompt")
-
+3. Open command prompt by type `cmd` in the search bar.
+4. Locate the folder where you saved the scripts using the command. `>cd (directory address)`
+5. Enter the name of the script and hit enter. `>C:\Users\User\Documents\PythonPracticePrograms>Factorial.py`
+## **Programs information**
 + For all the programs, I have used the linear algorithm which do the basic math and gives the required results.
 + Also the below programs have a checking part which indicates user while entering wrong inputs.
   ##### i. factorial. py
