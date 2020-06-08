@@ -19,3 +19,5 @@
   * This program gets the input from user and calculates the gcd of the given numbers only if the correct input is given.
   * It has two functions; One for generating divisors of the given numbers, Second for finding common divisors of the given numbers using lists.
   * Finally it prints the maximum of the common divisors lists which is nothing but the gcd.
+
+>Reference: The following youtube channel with its series about GitHub helped to understand the git workflow https://www.youtube.com/playlist?list=PLjQo0sojbbxVHcVN4h9DMu6U6spKk21uP
